@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://obsilab.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://obsilab.com/" target="_blank" rel="noopener noreferrer nofollow">
     <img height="400" width="459" src="https://user-images.githubusercontent.com/23436953/161594626-639312bf-920f-4592-a6eb-0895bc3f009b.gif">
   </a>
-  <a href="https://obsilab.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://obsilab.com/" target="_blank" rel="noopener noreferrer nofollow">
     <img height="200" src="https://user-images.githubusercontent.com/23436953/172023814-fac6555a-7102-4df2-bb38-fb32a477202b.svg">
   </a>
 </p>
